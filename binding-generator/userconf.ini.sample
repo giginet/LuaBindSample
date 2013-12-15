@@ -1,0 +1,7 @@
+[DEFAULT]
+androidndkdir=/Applications/Android/android-ndk-r8e
+clangllvmdir=/Users/giginet/clang+llvm-3.3
+cocosdir=/Users/giginet/cocos2d-x-3.0
+cxxgeneratordir=/Users/giginet/cocos2d-x-3.0/tools/bindings-generator
+extra_flags=
+
